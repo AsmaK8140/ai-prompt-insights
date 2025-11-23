@@ -1,0 +1,6 @@
+pandas
+openai
+streamlit
+pytest
+prefect
+pyyaml
